@@ -1,0 +1,3 @@
+[submodule "aoc-2016-day-2-rust-wasm-www"]
+	path = aoc-2016-day-2-rust-wasm-www
+	url = git@github.com:heartyhardy/aoc-2016-day-2-rust-wasm-www.git
